@@ -1,1 +1,1 @@
-<img src="imgjavascript-calculator.png" />
+<img src="img/javascript-calculator.png" />
